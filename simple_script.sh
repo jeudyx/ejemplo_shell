@@ -7,3 +7,4 @@ echo "Digite un valor: "
 read number 
 echo "El valor digitado es: $number"
 
+asasasasa
